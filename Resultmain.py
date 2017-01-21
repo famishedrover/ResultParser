@@ -100,6 +100,7 @@ def output_result () :
 
 
 
+t = 10
 
 
 
